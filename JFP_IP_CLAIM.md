@@ -1,7 +1,7 @@
 # Intellectual Property Claim: JARO Flash Protocol (JFP)
 
 **Date of Record:** 2026-06-28
-**Claimant:** Jarosław Kuchta (jarohullowicki / jarohull-ai)
+**Claimant:** Jarosław Andrzej Kuchta (online handles: jarohullowicki / jarohull-ai)
 **Property:** JARO Flash Protocol (JFP) - Specification, Ecosystem, and Implementations
 **Jurisdiction:** International (Berne Convention for the Protection of Literary and Artistic Works)
 
