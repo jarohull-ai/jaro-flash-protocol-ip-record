@@ -1,0 +1,19 @@
+Copyright (c) 2026 Jarosław Kuchta
+
+All Rights Reserved.
+
+The "JARO Flash Protocol" (JFP) name, its specific document structure (META, BUILD_GRAPH,
+OUTPUT_MAP, CONSTRAINTS, SIGNAL_ORANGE, FACT_LAYER, DECISION_LAYER, CORRECTION_LAYER),
+the VIKI ecosystem nomenclature (VIKI VISION, VIKI VIPER, VIKI VENOM, VIKI OPSDESK),
+the Melusina AI model family, VOQL (VIKI Operational Query Language), AORTANA-JFP,
+JFP-BC, JFP-Agent, JFP-Governor, JFP-Paradox, and all associated signal types
+(SIGNAL_UNKNOWN, SIGNAL_DENY, DISPATCH_TACTICAL, VOQL_AUTHORIZED, etc.)
+are the exclusive intellectual property of Jarosław Kuchta.
+
+Open-source repositories released under the etechvictoria-ui and jarohull-ai GitHub
+organizations are granted specific distribution rights under their respective licenses
+(e.g., MIT). However, deriving commercial products, enterprise frameworks, or competing
+protocols based on the JFP specification without a commercial license is strictly prohibited.
+
+For commercial licensing, integration, or usage inquiries:
+Contact: jarohull@gmail.com
